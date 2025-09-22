@@ -38,9 +38,8 @@ L’application capture une image via la caméra du smartphone et produit une **
 - Intégrer un module de synthèse vocale multilingue pour rendre l’application plus inclusive.  
 
 ---
-
 ## 🎥 Démonstration du projet
-[▶️ Cliquez ici pour voir la vidéo](video.mp4)
+[![Demo](demo.gif)](video.mp4)
 
 
 
