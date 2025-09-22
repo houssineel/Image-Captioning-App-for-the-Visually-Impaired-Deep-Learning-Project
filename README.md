@@ -39,3 +39,9 @@ L’application capture une image via la caméra du smartphone et produit une **
 
 ---
 
+## 🎥 Démonstration du projet
+
+![Demo](demo.gif)
+
+[📽️ Télécharger la vidéo](demo.mp4)
+
