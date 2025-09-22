@@ -39,5 +39,3 @@ L’application capture une image via la caméra du smartphone et produit une **
 
 ---
 
-## 👥 Remerciements
-Merci à notre encadrant **M. Riffi Jamal**, aux membres du jury, à nos collègues et à nos familles pour leur soutien.  
